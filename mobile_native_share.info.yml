@@ -1,7 +1,7 @@
 name: 'Mobile Native Share'
 type: module
 description: 'This module support to share content as mobile native share dialog. <a href="">Settings</a>'
-core_version_requirement: ^9.3 || ^10
+core_version_requirement: ^9.3 || ^10 || ^11
 configure: mobile_native_share.admin_settings
 
 # Information added by Drupal.org packaging script on 2020-11-14
